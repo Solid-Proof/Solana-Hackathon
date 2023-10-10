@@ -8,9 +8,9 @@ mapping(address => mapping(address => uint)) public allowance;
 
 uint public totalSupply = 10000000000 * 10 ** 6;
 
-string public name = "BOBM";
+string public name = "TokenList";
 
-string public symbol = "BOMB";
+string public symbol = "NAME";
 
 uint public decimals =06;
 
@@ -78,22 +78,3 @@ function approve(address spender, uint value) public returns (bool) {
 
     emit Approval(msg.sender, spender, value);
 
-    return true;   
-
-}
-This contract has been made public by BOMB team and is safe to interact. 
-Result : The following contract contains no malicious data and is safe to interact 
-
-Mint Authority : Disabled.
-Update Authority : Disabled
-Frezze Authority : Disabled.
-
-Doxxing by : Solid Proof 
-
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Andrew Denvix , The founder of $BOMB Solana has done their KYC on behalf of $BOMB team comprised of 4 team members and USA based project.
-
-KYC Verification : Successfully completed.
-------------------------------------------------------------------------------------------------------------------------------------------------
-                                                        END OF DOXXING  RESULT
